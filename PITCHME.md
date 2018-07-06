@@ -1,16 +1,5 @@
-@@ -1 +1,16 @@
-+# Flux 
-+
-+An application architecture for React
-+
-+---
-+
-+### Flux Design
-+
-+- Dispatcher: Manages Data Flow
-+- Stores: Handle State & Logic
-+- Views: Render Data via React
-+
-+---
-+
-+![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+## DEVELOPING THE LEADER WITHIN YOU
+
+<h4> Cara Mengembangkan Potensi Kepemimpinan Dalam Diri Anda</h4>
+<h6> karya John C.Maxwell
+
