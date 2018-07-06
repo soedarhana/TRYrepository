@@ -5,6 +5,4 @@
 
 @title[Working With Code Blocks]
 
----
-
-## Yaa Kemal Jomblo
+---?image=
