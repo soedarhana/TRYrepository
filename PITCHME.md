@@ -23,7 +23,7 @@
 @ul
 <center>Level 1 : Jabatan</center>
 
-- <center>Level terendah dari kepemimpinan</center>
+<center>Level terendah dari kepemimpinan</center>
 
 
 - <strong>John C Maxwell</strong> : " Kepemimpinan sejati berarti menjadi seseorang yang diikuti orang lain dengan senang hati & percaya diri "
@@ -33,11 +33,11 @@
 
 ---
 
-@ol
+@ul
 <center>Level 2 : Perkenanan (Pengikut mencintai pemimpinya)</center>
 - <b>Dn Reiland</b> : " Jika jabatan adalah intu untuk memasuki kepemimpinan, maka level 2(perkenanan) adalah fondasinya."
 
-@olend
+@ulend
 
 ---
 
