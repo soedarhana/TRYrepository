@@ -20,16 +20,16 @@
 
 ---
 
-@ol
+@ul
 <center>Level 1 : Jabatan</center>
 
-- Level terendah dari kepemimpinan,
+- <center>Level terendah dari kepemimpinan</center>
 
 
 - <strong>John C Maxwell</strong> : " Kepemimpinan sejati berarti menjadi seseorang yang diikuti orang lain dengan senang hati & percaya diri "
 - Seseorang yang punya jabatan hanya punya wewenang, bukan berarti punya keahlian memimpin.
 
-@olend
+@ulend
 
 ---
 
