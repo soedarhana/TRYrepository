@@ -8,7 +8,7 @@
 
 @ol
 
-<h1>Ada lima level kepemimpinan :</h1>
+<h5>Ada lima level kepemimpinan :</h5>
 - Level 1 : Jabatan
 - Level 2 : Perkenanan
 - Level 3 : Produktifitas
@@ -17,4 +17,3 @@
 
 @olend
 
----
