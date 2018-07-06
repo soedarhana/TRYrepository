@@ -6,10 +6,9 @@
 
 ---?image=https://github.com/soedarhana/TRYrepository/blob/7c3cc9a99d204334c6288e59b2342868527f4a85/Presentasi.jpg?raw=true
 
-
 @ol
 
-## Ada lima level kepemimpinan :
+<h1>Ada lima level kepemimpinan :</h1>
 - Level 1 : Jabatan
 - Level 2 : Perkenanan
 - Level 3 : Produktifitas
@@ -17,3 +16,5 @@
 - Level 5 : Puncak
 
 @olend
+
+---
