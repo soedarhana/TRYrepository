@@ -41,12 +41,12 @@
 
 ---
 
-@ol
+@ul
 <center>Level 3 : Produktivitas (mengagumi pemimpin)</center>
 
 - Pada suatu perusahaanada seorang pegawai yang bertugas untuk menjual produksi dari perusahaan dia sangat bodoh. Pengerjaan laporannya sangat buruk. Tapi untuk penjualan dia bisa melewati terget. Itu yang membuat dia masih di pertahankan oleh pemilik perusahaan.
 
-@olend
+@ulend
 
 ---
 
@@ -61,12 +61,14 @@
 @olend
 
 ---
- 
-@ol
+
 
 <center>Level 5 : Puncak</center>
 
 - Masih belum banyak orang yang berdiri pada level ini.
 
-@olend
 ---
+
+## Terimakasih & Mohon Maaf
+
+Dylan Syar'i
