@@ -10,9 +10,6 @@
 
 <h5>Ada lima level kepemimpinan :</h5>
 - Level 1 : Jabatan
-
---
-
 - Level 2 : Perkenanan
 - Level 3 : Produktifitas
 - Level 4 : Mengembangkan orang lain
